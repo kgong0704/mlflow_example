@@ -1,0 +1,12 @@
+http://abc-parsing.oss-cn-hangzhou.aliyuncs.com/parser/961e77c6ac744463aff1e5f33fe7e812.PDF  __label__负样本   停牌 公告   重大事项停牌公告
+http://abc-parsing.oss-cn-hangzhou.aliyuncs.com/parser/961e77c6ac744463aff1e5f33fe7e812.PDF  __label__负样本   证券 代码 证券 简称 博闻 科技 公告 编号   证券代码：600883        证券简称：博闻科技         公告编号：临2017-022
+http://abc-parsing.oss-cn-hangzhou.aliyuncs.com/parser/961e77c6ac744463aff1e5f33fe7e812.PDF  __label__负样本   重大 遗漏 内容 真实性 准确性 完整性 承担 个别 连带责任   或者重大遗漏，并对其内容的真实性、准确性和完整性承担个别及连带责任。
+http://abc-parsing.oss-cn-hangzhou.aliyuncs.com/parser/961e77c6ac744463aff1e5f33fe7e812.PDF  __label__停复牌   云南 博闻 科技实业 正在 可能 构成 重大资产重组 事项 存在 重大 不确定性 保证 公平 信息 披露 维护 投资者 利益 避免 造成 公司 股价 异常 波动 上海证券交易所 股票 上市 规则 相关 规定 经向 上海证券交易所 申请 公司股票 开市 连续 停牌   云南博闻科技实业股份有限公司（以下简称公司）因正在筹划重大事项，可能构成重大资产重组，鉴于该事项存在重大不确定性，为保证公平信息披露，维护投资者利益，避免造成公司股价异常波动，根据《上海证券交易所股票上市规则》等相关规定，经向上海证券交易所申请，公司股票（证券代码：600883，证券简称：博闻科技）自2017年9 月11日（星期一）开市起连续停牌。
+http://abc-parsing.oss-cn-hangzhou.aliyuncs.com/parser/961e77c6ac744463aff1e5f33fe7e812.PDF  __label__负样本   敬请 广大 投资者 注意 风险   敬请广大投资者注意风险。
+http://abc-parsing.oss-cn-hangzhou.aliyuncs.com/parser/961e77c6ac744463aff1e5f33fe7e812.PDF  __label__负样本   公司 尽快 确定 是否 进行 上述 股票 停牌 之日起 工作日内 公告 相关 进展 情况   公司将尽快确定是否进行上述重大事项，并于股票停牌之日起的5个工作日内（含停牌当日）公告相关进展情况。
+http://abc-parsing.oss-cn-hangzhou.aliyuncs.com/parser/961e77c6ac744463aff1e5f33fe7e812.PDF  __label__负样本   股票 停牌 期间 公司 相关事项 进展 情况 严格 法律法规 规定 要求 履行 信息 披露 义务   股票停牌期间，公司将根据相关事项进展情况，严格按照有关法律法规的规 定和要求履行信息披露义务。
+http://abc-parsing.oss-cn-hangzhou.aliyuncs.com/parser/961e77c6ac744463aff1e5f33fe7e812.PDF  __label__负样本   公司 董事会 停牌 申请书   （一）公司董事会的停牌申请书
+http://abc-parsing.oss-cn-hangzhou.aliyuncs.com/parser/961e77c6ac744463aff1e5f33fe7e812.PDF  __label__负样本   公司 董事会 全体 董事 保证 公告 内容 不存在 虚假 记载 误导性 陈述   本公司董事会及全体董事保证本公告内容不存在任何虚假记载、误导性陈述
+http://abc-parsing.oss-cn-hangzhou.aliyuncs.com/parser/961e77c6ac744463aff1e5f33fe7e812.PDF  __label__负样本   云南 博闻 科技实业   云南博闻科技实业股份有限公司
+http://abc-parsing.oss-cn-hangzhou.aliyuncs.com/parser/961e77c6ac744463aff1e5f33fe7e812.PDF  __label__负样本   特此 公告   特此公告。
+http://abc-parsing.oss-cn-hangzhou.aliyuncs.com/parser/961e77c6ac744463aff1e5f33fe7e812.PDF  __label__负样本   报备 文件   ● 报备文件
