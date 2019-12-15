@@ -1,0 +1,5 @@
+flavors:
+  python_function:
+    code: .
+    env: conda.yaml
+    loader_module: classifier.predict

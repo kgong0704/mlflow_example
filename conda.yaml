@@ -1,0 +1,17 @@
+name: conda
+channels:
+  - defaults
+dependencies:
+  - python=3.5
+  - pip:
+    - fasttext
+    - pandas
+    - numpy
+    - scikit-learn
+    - six
+    - datetime
+    - gensim
+    - jieba
+    - matplotlib
+    - json
+    - requests

@@ -1,0 +1,18 @@
+name: Tagging Project
+conda_env: conda.yaml
+
+# parameter_config from front end
+# val_set_ratio: {type: float, default: 0.2, name: "验证集占比"}
+# learning_rate: {type: float, default: 0.5, name: "学习率"}
+# wordNgram: {type: int, default: 1, name: "wordNgram取值"}
+# epochs: {type: int, default: 100, name: "迭代次数"}
+
+# model_dimension: {type: int, default: 10, name: "词向量尺寸"}
+# model_name: {type: str, default: 'my_fasttext.bin', name: "模型命名"}
+
+entry_points:
+  train:
+    parameters:
+      parameter_config: {type: string}
+      data_set: {type: string}
+    command: "python -m classifier.train {parameter_config} {data_set}"
